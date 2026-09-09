@@ -26,10 +26,10 @@ int main(){
      int odd[6] = {1,2,3,5,7,8};
 
      int evenindex = binarysearch(even,4,3);
-     cout<<"Index of 4 is"<< evenindex << endl;
+     cout<<"Index of 4 is="<< evenindex << endl;
 
        int oddindex = binarysearch(odd,6,7);
-     cout<<"Index of 6 is"<< oddindex << endl;
+     cout<<"Index of 6 is="<< oddindex << endl;
 
      return 0;
 }
