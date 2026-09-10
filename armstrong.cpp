@@ -12,7 +12,7 @@ int main(){
         n=n/10;
     }
     if(sum==number){
-        cout<<"the given number is armstrong";
+        cout<<"the given number is a armstrong";
     }
     else{
         cout<<"the given number is not a armstrong";
