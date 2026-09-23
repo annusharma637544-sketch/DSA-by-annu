@@ -25,10 +25,10 @@ void quicksort(vector<int>& arr, int st, int end) {
 
     if (st < end) {
 
-        int pividx = partition(arr, st, end);
+        int pivIdx = partition(arr, st, end);
 
-        quicksort(arr, st, pividx - 1);
-        quicksort(arr, pividx + 1, end);
+        quicksort(arr, st, pivIdx - 1);
+        quicksort(arr, pivIdx + 1, end);
     }
 }
 
