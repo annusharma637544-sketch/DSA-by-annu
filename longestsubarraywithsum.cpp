@@ -23,7 +23,7 @@ int longsubarray(vector<int>&arr, int k){
 }
 int main(){
     int k;
-    cout<<"enter k="<<endl;
+    cout<<"enter k="<< endl;
     cin>>k;
     
     int n;
