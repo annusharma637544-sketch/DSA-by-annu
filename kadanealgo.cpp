@@ -15,8 +15,7 @@ int maxSubArray(vector<int>& arr) {
             currentSum = 0;
         }
     }
-
-    return maxSum;
+     return maxSum;
 }
 
 int main() {
