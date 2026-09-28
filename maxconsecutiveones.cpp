@@ -2,7 +2,7 @@
 #include <vector>
 using namespace std;
 
-int (vector<int> nums) {
+int  maxconsecutiveones(vector<int> nums) {
 
     int maxi = 0;
     int count = 0;
