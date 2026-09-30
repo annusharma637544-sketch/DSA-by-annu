@@ -20,7 +20,7 @@ vector<int> movezero(int n, vector<int> temp, vector<int> a){
         a[i] = 0;
     }
 
-    return a;   // ✅ return added
+    return a;   
 }
 
 int main(){
@@ -35,8 +35,8 @@ int main(){
         cin >> arr[i];
     }
 
-    vector<int> temp;       // ✅ temp declared
-    arr = movezero(n, temp, arr);  // ✅ correct function call
+    vector<int> temp;       
+    arr = movezero(n, temp, arr);  l
 
     cout << "array is=";
 
