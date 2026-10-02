@@ -25,7 +25,7 @@ int main() {
 
     int n;
 
-    cout << "Enter no. of elements in an array = ";
+    cout << "Enter no. of elements in an array = "<<endl;
     cin >> n;
 
     vector<int> arr(n);
