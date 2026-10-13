@@ -170,5 +170,19 @@ for (int i = 1; i <= n; i++) {
         cout << endl;
     }
 
+
+ //tenth pattern
+    cout<<"tenth pattern";
+       cout<<endl;
+
+    for (int i = n; i >= 1; i--) {
+        for (int j = 1; j <= i; j++) {
+            cout << j;
+        }
+        cout << endl;
+    }
+
+
+
 return 0;
 }
