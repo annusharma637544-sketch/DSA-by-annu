@@ -221,6 +221,22 @@ for (int i = 1; i <= n; i++) {
         cout << endl;
     }
 
+    //thirteenth pattern
+    cout<<"thirteenth pattern";
+       cout<<endl;
+
+    for (int i = 1; i <= n; i++) {
+        for (int j = 1; j <= i; j++) {
+
+            if (i == n || j == 1 || j == i) {
+                cout << j;
+            } else {
+                cout << " ";
+            }
+        }
+
+        cout << endl;
+    }
 
 return 0;
 }
