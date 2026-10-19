@@ -296,5 +296,26 @@ for (int i = 1; i <= n; i++) {
         cout << endl;
     }
 
+    
+//sixteenth pattern
+    cout<<"sixteenth pattern";
+       cout<<endl;
+
+// Increasing pattern
+    for (int i = 1; i <= n; i++) {
+        for (int j = 1; j <= i; j++) {
+            cout << "*";
+        }
+        cout << endl;
+    }
+
+    // Decreasing pattern
+    for (int i = n - 1; i >= 1; i--) {
+        for (int j = 1; j <= i; j++) {
+            cout << "*";
+        }
+        cout << endl;
+    }
+
 return 0;
 }
