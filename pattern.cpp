@@ -298,7 +298,7 @@ for (int i = 1; i <= n; i++) {
 
     
 //sixteenth pattern
-    cout<<"sixteenth pattern";
+    cout<<"sixteenth  pattern";
        cout<<endl;
 
 // Increasing pattern
