@@ -337,5 +337,36 @@ for (int i = 1; i <= n; i++) {
     }
 
 
+    //eighteenth patternn
+    cout<<"eighteenth  pattern";
+       cout<<endl;
+
+    // Upper half
+    for (int i = n; i >= 1; i--) {
+        for (int s = 1; s <= n - i; s++) {
+            cout << " ";
+        }
+
+        for (int j = 1; j <= i; j++) {
+            cout << j;
+        }
+
+        cout << endl;
+    }
+
+    // Lower half
+    for (int i = 2; i <= n; i++) {
+        for (int s = 1; s <= n - i; s++) {
+            cout << " ";
+        }
+
+        for (int j = 1; j <= i; j++) {
+            cout << j;
+        }
+
+        cout << endl;
+    }
+
+
 return 0;
 }
