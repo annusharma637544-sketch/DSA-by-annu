@@ -140,7 +140,7 @@ for (int i = 1; i <= n; i++) {
         cout << endl;
     }
 
- //ninth pattern
+ //ninth patternn
     cout<<"ninth pattern";
        cout<<endl;
 
