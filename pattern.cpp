@@ -64,7 +64,7 @@ int main() {
     }
 
 
-   //fifth pattern
+   //fifth patternn
     cout<<"fifth pattern";
        cout<<endl;
  for (int i = 1; i <= n; i++) {
