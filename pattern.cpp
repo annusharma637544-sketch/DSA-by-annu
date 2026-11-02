@@ -50,7 +50,7 @@ int main() {
     }
 
 
-//fourth pattern
+//fourth patternn
     cout<<"fourth pattern";
        cout<<endl;
 
