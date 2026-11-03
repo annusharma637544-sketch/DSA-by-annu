@@ -51,7 +51,7 @@ int main() {
 
 
 //fourth patternn
-    cout<<"fourth pattern";
+    cout<<"fourth patternn";
        cout<<endl;
 
     for (int i = 1; i <= n; i++) {
