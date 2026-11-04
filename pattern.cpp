@@ -35,7 +35,7 @@ int main() {
 
 
 
-    // third pattern
+    // third patternn
     cout<<"third pattern";
        cout<<endl;
 
