@@ -36,7 +36,7 @@ int main() {
 
 
     // third patternn
-    cout<<"third pattern";
+    cout<<"third patternn";
        cout<<endl;
 
     for (int i = 1; i <= n; i++) {
