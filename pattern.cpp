@@ -15,7 +15,7 @@ int main() {
     }
 
     // Second patternn
-    cout<<"second pattern";
+    cout<<"second patternn";
        cout<<endl;
 
     for (int i = 1; i <= n; i++) {
