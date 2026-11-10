@@ -16,7 +16,7 @@ int main() {
         cout << endl;
     }
 
-    // Second patternn
+    // Second patternnn
     cout<<"second patternn";
        cout<<endl;
 
