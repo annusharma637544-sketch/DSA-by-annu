@@ -121,7 +121,7 @@ else
     }
 
     
-     //eigth pattern
+     //eigth patternn
     cout<<"eigth pattern";
        cout<<endl;
 
