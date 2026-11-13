@@ -122,7 +122,7 @@ else
 
     
      //eigth patternn
-    cout<<"eigth pattern";
+    cout<<"eigth patternns";
        cout<<endl;
 
 for (int i = 1; i <= n; i++) {
