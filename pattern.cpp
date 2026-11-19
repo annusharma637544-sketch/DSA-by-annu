@@ -97,7 +97,7 @@ else
         cout << endl;
     }
 
-     //seventh patternnns
+     //seventh patterrnnns
     cout<<"seventh patternns";
        cout<<endl;
     for (int i = 1; i <= n; i++) {
