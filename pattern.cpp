@@ -84,7 +84,7 @@ for (int i = n - 1; i >= 1; i--) {
 }
 
   //sixth patternn
-    cout<<"sixth pattern";
+    cout<<"sixth patternn";
        cout<<endl;
 
         for (int i = 1; i <= n; i++) {
