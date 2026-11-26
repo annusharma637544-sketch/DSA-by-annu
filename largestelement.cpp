@@ -15,6 +15,6 @@ int main(){
         largest= arr[i];
     }
 }
-    cout<<"largest element in array is="<<largest;
+    cout<<"Largest elements in array is="<<largest;
  return 0;
 }

@@ -18,7 +18,7 @@ int main(){
         cin>>arr[i];
     }
     if(checksorted(arr, n)) {
-        cout << "Array is sorted";
+        cout << "Array is sorted=";
     }
     else {
         cout << "Array is not sorted";
